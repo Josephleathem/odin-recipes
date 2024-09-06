@@ -1,4 +1,6 @@
 body {
+    background-color: gray;
+    color: black;
     font-family: Helvetica, 'Times New Roman', sans-serif ;
 }
 
@@ -8,5 +10,32 @@ h1 {
 }
 
 ul li a {
-    color: black;
+    color: whitesmoke;
 }
+
+ img.fish {
+    width: 375px;
+    height:250px ;
+ }
+
+figcaption {
+    font-size: 12px;
+    font-style: italic;
+}
+
+body p {
+    text-align: center;
+    font-size: 16px;
+}
+
+ul.ingredients li {
+    font-weight: bold;
+}
+
+ h3#steps {
+    text-decoration: underline;
+ }
+
+.steakSteps {
+    color: red;
+ }
