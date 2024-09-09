@@ -8,6 +8,29 @@ h1 {
     text-align: center;
     font-weight: bold;
 }
+ul.nav {
+    margin: 15px;
+    list-style: none;
+}
+ul.nav li{
+    margin: 5px;
+
+}
+li.home {
+padding-left: 10px;
+}
+
+li.steak {
+    padding-left: 20px;
+}
+
+li.chicken {
+    padding-left: 30px;
+}
+
+li.fish {
+    padding-left: 40px;
+}
 
 ul li a {
     color: whitesmoke;
