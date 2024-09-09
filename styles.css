@@ -8,28 +8,19 @@ h1 {
     text-align: center;
     font-weight: bold;
 }
-ul.nav {
-    margin: 15px;
-    list-style: none;
+
+div.nav {
+    text-align: center;
 }
+
+ul.nav {
+    display: inline-flex;
+    list-style: none;
+    padding: 0px;
+}
+
 ul.nav li{
     margin: 5px;
-
-}
-li.home {
-padding-left: 10px;
-}
-
-li.steak {
-    padding-left: 20px;
-}
-
-li.chicken {
-    padding-left: 30px;
-}
-
-li.fish {
-    padding-left: 40px;
 }
 
 ul li a {
